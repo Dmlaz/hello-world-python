@@ -1,1 +1,1 @@
-print('Changed Hello world in NEW BRACNCH')
+print('Changed Hello world in NEW BRACNCH. Тут всякая фигня которую я НЕ ЖЕЛАЮ ВИДЕТЬ В МЕЙНЕ')
